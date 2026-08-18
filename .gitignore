@@ -9,3 +9,5 @@
 !Window/**
 
 !.gitignore
+
+!README.md
