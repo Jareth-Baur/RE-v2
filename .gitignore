@@ -1,0 +1,11 @@
+*
+!Art/
+!Art/**
+
+!Data/
+!Data/**
+
+!Window/
+!Window/**
+
+!.gitignore
