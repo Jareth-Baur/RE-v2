@@ -105,9 +105,3 @@ All original game assets, trademarks, and copyrights belong to **Electronic Arts
 This repository does **not** distribute the full game or proprietary assets.
 
 ---
-
-## License
-
-This repository contains only the author's modifications.
-
-Original Command & Conquer assets remain the property of Electronic Arts.
