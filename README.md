@@ -37,20 +37,20 @@ Window/
 
 ## Included
 
-- ✅ Art assets
-- ✅ INI configuration files
-- ✅ UI/Menu files
-- ✅ Source files used for development
+- Art assets
+- INI configuration files
+- UI/Menu files
+- Source files used for development
 
 ## Not Included
 
-- ❌ Game executable
-- ❌ `.big` archives
-- ❌ Audio files
-- ❌ Maps
-- ❌ DLLs
-- ❌ Fonts
-- ❌ Original game assets
+- Game executable
+- `.big` archives
+- Audio files
+- Maps
+- DLLs
+- Fonts
+- Original game assets
 
 ---
 
