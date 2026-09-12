@@ -1,4 +1,4 @@
-# Generals Zero Hour Reborn v5.0 (Modified)
+# Generals Zero Hour Reborn V5.0 (Modified)
 
 A community-maintained source repository containing editable assets for a customized version of **Command & Conquer: Generals – Zero Hour Reborn v5.0**.
 
